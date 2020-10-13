@@ -2,4 +2,4 @@
 This is to learn git
 
 
-I am just doing something nasty
+I am trying to learn new things in better way !
